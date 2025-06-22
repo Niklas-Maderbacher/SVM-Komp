@@ -22,4 +22,5 @@ Anforderungen
 - Diskutieren Sie Ihre Ergebnisse und Vergleichen Sie den Einsatz von linearen und RBF Kernel (Dauer des Lernens, Welches schneidet besser ab?)
 - Abgabe des Berichts im PDF Format (inkl. welche Paket installiert werden müssen); separat auch die Python Skripts
 - Achten Sie auf eine klare und strukturierte Darstellung (Inhaltsverzeichnis, Nummerierungen)
-- Sollten Sie Bücher oder andere Literatur zur Hilfe nehmen - bitte Literaturstellen/Quellen angeben.
+
+Sollten Sie Bücher oder andere Literatur zur Hilfe nehmen - bitte Literaturstellen/Quellen angeben.
