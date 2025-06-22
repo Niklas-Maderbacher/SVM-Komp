@@ -1,0 +1,9 @@
+services:
+  app:
+    build: ./src
+    volumes:
+      - .:/usr/src # Mount the project directory
+    environment:
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONUNBUFFERED=1
+    command: python ./src/main.py # Replace this with your Python script entry point
